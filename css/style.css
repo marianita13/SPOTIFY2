@@ -178,15 +178,34 @@ p{
 }
 
 .cards-songs{
+    display: grid;
+    grid-template-rows: 35px 1fr 20px 1fr;
+    grid-template-columns: repeat(7, 1fr);
     width: 100%;
     padding: 0 20px 0 20px;
 }
 .card-singers{
+    align-items: flex-start !important;
+    grid-row: 2/3;
     height: 225px;
     width: 170px;
     flex-direction: column;
-    border: 1px solid red;
     padding: 10px;
     background-color: rgba(8, 8, 8, 0.507);
     border-radius: 10px;
+    gap: 10px;
+}
+.cantante{
+    font-size: 14px !important;
+    text-align: start !important;
+    padding-left: 6px;
+}
+.description{
+    font-size: 12px !important;
+    font-weight: 100;
+    color: rgb(192, 186, 186);
+    padding-left: 6px;
+    word-spacing: 1px;
+    letter-spacing: 0.3px;
+    line-height: 17px;
 }
