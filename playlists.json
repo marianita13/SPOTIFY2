@@ -1,0 +1,901 @@
+[
+  {
+      "collaborative": false,
+      "description": "",
+      "hora":"1h 45 min",
+      "images": [
+          {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273536c9d3bdf8a3959efc41a0fab67616d0000b2737a715a340442993f60e0fc5eab67616d0000b2737f21e1d44b7dbb3940f6a93bab67616d0000b273da2599b3404e1baaa779d06d",
+          "width": 300
+          },
+          {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273536c9d3bdf8a3959efc41a0fab67616d0000b2737a715a340442993f60e0fc5eab67616d0000b2737f21e1d44b7dbb3940f6a93bab67616d0000b273da2599b3404e1baaa779d06d",
+          "width": 60
+          }
+      ],
+      "name": "Mi amor variado",
+      "owner": {
+        "display_name": "Mariana Acero",
+        "id": "31gtuzql36eh7urkoyvnlcwkg3oa",
+        "uri": "spotify:user:31gtuzql36eh7urkoyvnlcwkg3oa"
+      },
+      "public": true,
+        "items": [
+          {
+              "album":"Ni Es Lo Mismo Ni Es Igual",
+              "image":[
+              {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0215ce6d28d437512c7483de6e",
+                  "height": 300,
+                  "width": 300
+              },
+              {
+                  "url": "https://i.scdn.co/image/ab67616d0000485115ce6d28d437512c7483de6e",
+                  "height": 64,
+                  "width": 64
+              }],
+              "autor":"Mariana Acero",
+              "cancion":"El Níagara en Bicicleta",
+              "cantante":"Juan Luis Guerra 4.40",
+              "duracion":"4:25",
+              "letra":"Me dio una sirimba un domingo en la mañana, cuando menos lo pensaba Caí redondo, como una guanábana, sobre la alcantarilla ¿Será la presión o me ha subido la bilirrubina? Y me entró una calentura y me fui poniendo blanco, como bola 'e naftalina Me llevaron a un hospital de gente, supuestamente En la emergencia, el recepcionista escuchaba la lotería (¡treinta mil pesos!) 'Alguien se apiade de mí', grité, perdiendo el sentido Y una enfermera se acercó a mi oreja y me dijo 'Tranquilo, Bobby, tranquilo' Me acarició con sus manos de Bengay y me dijo: '¿qué le pasa, atleta?' Y le conté con lujo de detalles lo que me había sucedido Hay que chequearte la presión, pero la sala está ocupada Y, mi querido, en este hospital no hay luz para un electrocardiograma Abrí los ojos como luna llena y me agarré la cabeza, je Porque es muy duro pasar el Niágara en bicicleta No me digan que los médicos se fueron (oh-oh-oh) No me digan que no tienen anestesia (oh-oh-oh) No me digan que el alcohol se lo bebieron (oh-oh-oh) Y que el hilo de coser fue bordado en un mantel No me digan que las pinzas se perdieron (oh-oh-oh) Que el estetoscopio está de fiesta (oh-oh-oh) Que los rayos X se fundieron (oh-oh-oh) Y que el suero ya se usó para endulzar el café Yeh-eh-eh-eh, eh-eh-eh Me apoyé de sus hombros, como un cojo a su muleta Y le dije: '¿qué hago, princesa?' Y en un papel de receta me escribió muy dulcemente (princesa) 'Lo siento, atleta' (¿qué va a ser de mí?) Me acarició con sus manos de Bengay (princesa) Y siguió su destino (¿qué va a ser de mí?) Y oí claramente cuando dijo a otro paciente (mi princesa) 'Tranquilo, Bobby, (tranquilo)' (¿qué va a ser de mí?) Bajé los ojos a media asta (princesa) y me agarré la cabeza (¿qué va a ser de mí?) Porque es muy duro (princesa) pasar el Niágara en bicicleta (¿qué va a ser de mí?) No me digan que los médicos se fueron (oh-oh-oh) No me digan que no tienen anestesia (oh-oh-oh) No me digan que el alcohol se lo bebieron (oh-oh-oh) Y que el hilo de coser fue bordado en un mantel No me digan que las pinzas se perdieron (oh-oh-oh) Que el estetoscopio está de fiesta (oh-oh-oh) Que los rayos X se fundieron (oh-oh-oh) Y que el suero ya se usó para endulzar el café Yeh-eh-eh-eh, eh-eh-yeh El Niágara en bicicleta, eh-eh-eh En bicicleta, oh, no No me digan que alguien va cayendo de tanto dolor No me digan que alguien va cayendo No me digan que las aspirinas cambian de color No me digan que las aspirinas No me digan que me van pariendo, que le falta amor No me digan que alguien va pariendo No me digan que me está latiendo, oh, no, oh, no No me digan que alguien va cayendo de tanto dolor No me digan que alguien va cayendo No me digan que las aspirinas cambian de color No me digan que las aspirinas No me digan que me van pariendo, que le falta amor No me digan que alguien va pariendo No me digan que me está latiendo, oh, no, oh, no No me digan que alguien va cayendo de tanto dolor No me digan que las aspirinas cambian de color No me digan que me van pariendo, que le falta amor, oh-oh No me digan que me está latiendo, oh, no No me digan que alguien va cayendo-"
+          },
+          {
+              "album":"La Llave De Mi Corazon",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e0281fd010b98a543921798348b",
+                      "height": 300,
+                      "width": 300
+                  },
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d0000485181fd010b98a543921798348b",
+                      "height": 64,
+                      "width": 64
+                  }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Como Yo",
+              "cantante":"Juan Luis Guerra 4.40",
+              "duracion":"3:26",
+              "letra":"Como yo te quiero, como yo te anhelo Si no estás aquí, yo no soy feliz, ay no, no Lluvia, como lagrimas de pino verde Si no estás a mi lado Besos, los besos que me dió tu boca Me los como a diario Te busco en el ginkobiloba de mis vitaminas Te he buscado hasta en la sopa Que dejé en la cocina Mira, yo he visto a Plácido Domingo cantar en Rigoletto De Bethoven Fidelio y las nueve sinfonías Los conciertos Brandenburgo y un coro moscovita Pero nada se compara con tu cara bonita Como yo te quiero, como yo te anhelo Si no estás aquí, yo no sé vivir Como yo te quiero, como yo te anhelo Si no estás aquí, yo no soy feliz, ay no no Mira, he visto Los Agapantos de Monet en el MOMA He visto exhibir las obras de Van Gogh y de Picasso El Foliage de Cézanne y la Mona Lisa Pero nada se compara con tu cara bonita Como yo te quiero, como yo te anhelo Si no estás aquí, yo no sé vivir Como yo te quiero, como yo te anhelo Si no estás aquí, yo no soy feliz Yo no soy feliz, si no estás aquí Ojooye Tanto que yo he visto en esta vida Nada se compara con tu risa Vives en el óleo de mis días Y hasta en el sudoku de mi sinfonía Como yo te quiero, como yo te anhelo Si no estás aquí, yo no sé vivir Como yo te quiero, como yo te anhelo Si no estás aquí, yo no soy feliz Yo no soy feliz, si no estás aquí"
+          },
+          {
+              "album":"Suavemente",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e027f21e1d44b7dbb3940f6a93b",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d000048517f21e1d44b7dbb3940f6a93b",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Nuestra Cancion",
+              "cantante":"Elvis Crespo",
+              "duracion":"3:29",
+              "letra":"Quiero que me recuerdes Con la canción que nos hacía callar Esa que nos decía De que algún día la despedida tendría que llegar No, no es un capricho Tan solo es algo que te quiero yo pedir Hoy, para siempre, para que te acuerdes de mí Adiós (adiós), estoy muy triste Pues, hoy que tú te fuiste Se oyó nuestra canción Para que nunca la olvidáramos los dos Adiós (adiós), ya no podemos seguir Lo siento, no pude hacerte yo feliz Me voy, pero me llevo yo de ti El amor que por ti yo sentí Busca tus sueños y no pienses más en mí (ah) Quiero que me recuerdes Con la canción que nos hacía callar Esa que nos decía De que algún día la despedida tendría que llegar No, no es un capricho Tan solo es algo que te quiero yo pedir Hoy, para siempre, para que te acuerdes de mí Adiós (adiós), estoy muy triste Pues, hoy que tú te fuiste Se oyó nuestra canción Para que nunca la olvidáramos los dos Adiós (adiós), ya no podemos seguir Lo siento, no pude hacerte yo feliz Me voy, pero me llevo yo de ti El amor que por ti yo sentí Busca tus sueños y no pienses más en mí (ah) No pienses más en mí Uoh-oh Pequeña, adiós, no, no, no Échate p'acá"
+          },
+          {
+              "album":"Día Tras Día",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e02993a5058939a9df6ec235813",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d00004851993a5058939a9df6ec235813",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Día Tras Día",
+              "cantante":"Andrés Cepeda",
+              "duracion":"4:06",
+              "letra":"Una flor dura un verano Un verano son tres meses 12 meses tiene un año ¿Puede un año ser tan breve? Cómo es breve el diccionario Para definir quién eres Un 'te quiero' no es 'te amo' Un 'te amo' no es tan fuerte Si no es fuerte lo que sientes Si es que sientes que has amado Con el cuerpo y con la mente Como yo te amo Salir al mundo es como caminar en medio de una guerra Pero a tu lado todo es más seguro porque encuentro paz Le pido al cielo que te proteja Que siempre estemos igual Que me ames igual Yo quiero estar contigo el resto de mi vida Que podamos estar juntos hasta el final Poderme despertar con tu sonrisa es mi alegría Día tras día No hay dolor que sea eterno No es eterno un 'hasta luego' 'Hasta luego' es un regreso No hay regreso sin encuentro Y un encuentro es lo más bello Cuando estamos cuerpo a cuerpo Salir al mundo es como caminar en medio de una guerra Pero a tu lado todo es más seguro porque encuentro paz Le pido al cielo que te proteja Que siempre estemos igual Que me ames igual Yo quiero estar contigo el resto de mi vida Que podamos estar juntos hasta el final Poderme despertar con tu sonrisa es mi alegría Día tras día Es mi alegría Día tras díа Es mi alegría Día tras día"
+          },
+          {
+              "album":"Tienes La Magia",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e0263658b173db5c403033c0230",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d0000485163658b173db5c403033c0230",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Tienes La Magia",
+              "cantante":"Lil Silvio & El Vega",
+              "duracion":"4:00",
+              "letra":"Tienes la magia para hacerme sonrojar Y la dulzura pa' poderme enamorar Tienes la risa que cautiva mis sentidos Sin duda alguna dios nos quiere ver unidos Pa' toda la vida, curarnos heridas Pa' darnos las manos, si necesitamos El uno del otro, siempre cuidaremos Juntos estaremos, no nos separamos Y quiero que sepas que voy a estar junto a ti Cuando menos lo esperes, baby Dame la oportunidad de demostrarte Cuánto es que este hombre te quiere, baby Tienes la magia, tienes todo Tú estas hecha a mi acomodo Y no te dejo de ninguna forma Eres completa, eres perfecta Tienes todas las facetas Se alinearon los planetas Tienes la magia para hacerme sonrojar Y la dulzura pa' poderme enamorar Tienes la risa que cautiva mis sentidos Sin duda alguna dios nos quiere ver unidos Pa' toda la vida, curarnos heridas Pa' darnos las manos, si necesitamos El uno del otro, siempre cuidaremos Juntos estaremos, no nos separamos Tú tienes la magia, todo, tienes la clave De mi corazón, baby, tienes la llave Sabes mucho más de mí de lo que nadie sabe Y te prometo que no dejaré que esto acabe Tienes la magia, tienes la clave De mi corazón, baby, tienes la llave Sabes mucho más de mí, de lo que nadie sabe Y te prometo que no dejaré que esto acabe Lo que todo el mundo sabe Que me desvelo por ti Y que a mi dios le agradezco por haberte enviado aquí Y si me pregunta '¿y esto a quién se lo escribí?' A la mujer de mis sueños Tienes la magia, tienes todo Tú estás hecha a mi acomodo Yo no te dejo de ninguna forma Eres completa, eres perfecta Tienes todas las facetas Se alinearon los planetas Está es mi declaración pa' ti, mi vida (Tienes la magia) Creo que siempre dije que eras la elegida (Tienes la magia) Y también prometí que serías mía (Tienes la magia) Hoy por fin te encontré Tienes la magia para hacerme sonrojar Y la dulzura pa' poderme enamorar Tienes la risa que cautiva mis sentidos Sin duda alguna dios nos quiere ver unidos Pa' toda la vida, curarnos heridas Pa' darnos las manos, si necesitamos El uno del otro, siempre cuidaremos Juntos estaremos, no nos separamos"
+          },
+          {
+              "album":"Pa' Otro La 'O",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e0248600708bc1ce294f16df42e",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d0000485148600708bc1ce294f16df42e",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Procura",
+              "cantante":"ChiChi Peralta",
+              "duracion":"4:31"
+          },
+          {
+              "album":"Hold My Hand (feat. Zaho)",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e02d41c8edc1d6e0a3e0ecb81a4",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d00004851d41c8edc1d6e0a3e0ecb81a4",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Agarra Mi Mano",
+              "cantante":"Sean Paul",
+              "duracion":"3:29"
+          },
+          {
+              "album":"Limon Y Sal",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e02a043fa84be801dca33dacca1",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d00004851a043fa84be801dca33dacca1",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Limon Y Sal",
+              "cantante":"Julieta Venegas",
+              "duracion":"3:25"
+          },
+          {
+              "album":"Manuel Medrano",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e028195fefecfd1ba1918971352",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d000048518195fefecfd1ba1918971352",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Afuera Del Planeta",
+              "cantante":"Manuel Medrano",
+              "duracion":"3:49"
+          },
+          {
+              "album":"Manuel Medrano",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e028195fefecfd1ba1918971352",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d000048518195fefecfd1ba1918971352",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Una y Otra Vez",
+              "cantante":"Manuel Medrano",
+              "duracion":"3:11"
+          },
+          {
+              "album":"Balas Perdidas (Edición Especial)",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e02902e93d7f1f67cdb90cfe96c",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d00004851902e93d7f1f67cdb90cfe96c",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Mi Suerte",
+              "cantante":"Morat",
+              "duracion":"3:33"
+          },
+          {
+              "album":"Porfa no te vayas",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e024cac4c4431908529b744ec9b",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d000048514cac4c4431908529b744ec9b",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Porfa no te vayas",
+              "cantante":"Beret, Morat",
+              "duracion":"3:30"
+          },
+          {
+              "album":"Hasta el Fin Del Mundo",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e02a7558dd7d6526ad0856de685",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d00004851a7558dd7d6526ad0856de685",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Vámonos a Marte",
+              "cantante":"Kevin Kaarl",
+              "duracion":"2:59"
+          },
+          {
+              "album":"Te Voy a Amar",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e027cb9d619dc15f0a7c6efe1df",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d000048517cb9d619dc15f0a7c6efe1df",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Te Voy a Amar",
+              "cantante":"Andrés Cepeda, Cali Y El Dandee",
+              "duracion":"3:38"
+          },
+          {
+              "album":"8",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e0229035ea37892b23fa78beafe",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d0000485129035ea37892b23fa78beafe",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Llegaste Tú",
+              "cantante":"Luis Fonsi, Juan Luis Guerra 4.40",
+              "duracion":"3:42"
+          },
+          {
+              "album":"La Historia Continua",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0289e14082c4dc1da15cbad552",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485189e14082c4dc1da15cbad552",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"10 Razones para Amarte",
+              "cantante":"El Gran Martín Elías, Juancho De La Espriella",
+              "duracion":"5:16"
+          },
+          {
+              "album":"Déjame Ir",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02827e7c88be91d7472e7897c1",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851827e7c88be91d7472e7897c1",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Déjame Ir",
+              "cantante":"Andrés Cepeda, Morat",
+              "duracion":"3:53"
+          },
+          {
+              "album":"Historias Tattooadas",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e025d190f7e2f39922cf72934c3",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048515d190f7e2f39922cf72934c3",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Coincidir",
+              "cantante":"Macaco",
+              "duracion":"4:27"
+          },
+          {
+              "album":"Mil Ciudades",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b020287dabb730a9f8b239bf",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851b020287dabb730a9f8b239bf",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Por el Resto de Mi Vida",
+              "cantante":"Andrés Cepeda",
+              "duracion":"3:45"
+          },
+          {
+              "album":"HLo Mejor Que Hay en Mi Vida",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e022fcf0a3cbfb1a8bbf7e153ff",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048512fcf0a3cbfb1a8bbf7e153ff",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Lo Mejor Que Hay en Mi Vida",
+              "cantante":"Andrés Cepeda",
+              "duracion":"3:35"
+          },
+          {
+              "album":"órmula Vol. 1 (Deluxe Edition)",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e021d6d3d544ca5b46453fafbb6",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048511d6d3d544ca5b46453fafbb6",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Llévame Contigo",
+              "cantante":"Romeo Santos",
+              "duracion":"3:46"
+          },
+          {
+              "album":"San Lucas",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e023e4b5368bf7ad20f19cc4812",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048513e4b5368bf7ad20f19cc4812",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"San Lucas",
+              "cantante":"Kevin Kaarl",
+              "duracion":"4:07"
+          },
+          {
+              "album":"¿A Dónde Vamos?",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0202bf1057986d3d64dec7e66a",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485102bf1057986d3d64dec7e66a",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"A Dónde Vamos",
+              "cantante":"Morat",
+              "duracion":"3:25"
+          },
+          {
+              "album":"Cosas Bonitas",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0204dca00818de32a5edec56dc",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485104dca00818de32a5edec56dc",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Cosas Bonitas",
+              "cantante":"Fanny Lu, Jorge Celedón",
+              "duracion":"3:22"
+          },
+          {
+              "album":"Cada Vez Más < :-)",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02aeacbfa15588252263286261",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851aeacbfa15588252263286261",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Viernes 13",
+              "cantante":"SMarcos Menchaca",
+              "duracion":"3:01"
+          },
+          {
+              "album":"Magia (feat. Sebastián Yatra)",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e020897baf29e72b5eaf226fcf0",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048510897baf29e72b5eaf226fcf0",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Magia (feat. Sebastián Yatra)",
+              "cantante":"Andrés Cepeda, Sebastian Yatra",
+              "duracion":"3:13"
+          },
+          {
+              "album":"Todo Cambio",
+              "image":[
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e027e0721f90f91d37de250788f",
+                  "height": 300,
+                  "width": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048517e0721f90f91d37de250788f",
+                  "height": 64,
+                  "width": 64
+                }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Todo Cambio",
+              "cantante":"Camila",
+              "duracion":"3:29"
+          },
+          {
+              "album":"Hold My Hand (feat. Zaho)",
+              "image":[
+                  {
+                      "url": "https://i.scdn.co/image/ab67616d00001e02d41c8edc1d6e0a3e0ecb81a4",
+                      "height": 300,
+                      "width": 300
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616d00004851d41c8edc1d6e0a3e0ecb81a4",
+                      "height": 64,
+                      "width": 64
+                    }
+              ],
+              "autor":"Mariana Acero",
+              "cancion":"Agarra Mi Mano",
+              "cantante":"Sean Paul",
+              "duracion":"3:29"
+          }
+          ],
+      "total": 28,
+      "uri": "spotify:playlist:77cjDkSlAs4Z7z8FzkgTBb"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "hora":"53 min 19 s",
+    "images": [
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730c929d54495f38b910f48643ab67616d0000b273420c7ba982f6f92351fc0a2bab67616d0000b2736c4c83779f5d3cd6ad3e1aecab67616d0000b2738195fefecfd1ba1918971352",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730c929d54495f38b910f48643ab67616d0000b273420c7ba982f6f92351fc0a2bab67616d0000b2736c4c83779f5d3cd6ad3e1aecab67616d0000b2738195fefecfd1ba1918971352",
+        "width": 60
+      }
+    ],
+    "name": "Tu playlist",
+    "owner": {
+      "display_name": "Javier Morales",
+      "id": "31gtuzql36eh7urkoyvnlcwkg3oa",
+      "uri": "spotify:user:31gtuzql36eh7urkoyvnlcwkg3oa"
+    },
+    "public": true,
+    "items": [
+      {
+        "album":"mix pa llorar en tu cuarto",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026c4c83779f5d3cd6ad3e1aec",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516c4c83779f5d3cd6ad3e1aec",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Acurrucar",
+        "cantante":"Ed Maverick",
+        "duracion":"3:54"
+      },
+      {
+        "album":"mix pa llorar en tu cuarto",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026c4c83779f5d3cd6ad3e1aec",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516c4c83779f5d3cd6ad3e1aec",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Fuentes de Ortiz",
+        "cantante":"Ed Maverick",
+        "duracion":"3:27"
+      },
+      {
+        "album":"Manuel Medrano",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028195fefecfd1ba1918971352",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518195fefecfd1ba1918971352",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Bajo El Agua",
+        "cantante":"Manuel Medrano",
+        "duracion":"3:46"
+      },
+      {
+        "album":"Sobre El Amor Y Sus Efectos Secundarios",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02797cd69b7e6ca4914e53c23f",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851797cd69b7e6ca4914e53c23f",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Mi Nuevo Vicio",
+        "cantante":"Morat",
+        "duracion":"3:57"
+      },
+      {
+        "album":"Lágrimas desordenadas",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02420c7ba982f6f92351fc0a2b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851420c7ba982f6f92351fc0a2b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Tu jardín con enanitos",
+        "cantante":"Melendi",
+        "duracion":"3:57"
+      },
+      {
+        "album":"Un alumno más",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bebbbfeb614d51835b817beb",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bebbbfeb614d51835b817beb",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"La promesa",
+        "cantante":"Melendi",
+        "duracion":"3:53"
+      },
+      {
+        "album":"Dr. Charas",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287d23341bdbb168504a696c9",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187d23341bdbb168504a696c9",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Sirenas",
+        "cantante":"Taburete",
+        "duracion":"3:04"
+      },
+      {
+        "album":"Como Estrellas",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ca626f0b28716942adeff216",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ca626f0b28716942adeff216",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Como Estrellas",
+        "cantante":"LA YOUNG",
+        "duracion":"3:39"
+      },
+      {
+        "album":"De mi puño y letra - Edicion Coleccionista",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021f91da617b2e5527d58d2453",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511f91da617b2e5527d58d2453",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Colgando en tus manos (con Marta Sánchez)",
+        "cantante":"Carlos Baute, Marta Sánchez",
+        "duracion":"3:50"
+      },
+      {
+        "album":"Sobre El Amor Y Sus Efectos Secundarios",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020c929d54495f38b910f48643",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510c929d54495f38b910f48643",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"En Un Sólo Dia",
+        "cantante":"Morat",
+        "duracion":"3:22"
+      },
+      {
+        "album":"FERXXO (VOL 1: M.O.R)",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e8753ff69b7efb6f8e146cd",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e8753ff69b7efb6f8e146cd",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"PORFA",
+        "cantante":"Feid, Justin Quiles",
+        "duracion":"3:29"
+      },
+      {
+        "album":"Entre Tú y Yo",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b985c16e57a7139cf99a7ee8",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b985c16e57a7139cf99a7ee8",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Entre Tú y Yo",
+        "cantante":"Chema Rivas",
+        "duracion":"3:44"
+      },
+      {
+        "album":"The Book of Life (Original Motion Picture Soundtrack)",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020640e3eee2be5a2864abafb7",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510640e3eee2be5a2864abafb7",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Te Amo y Más",
+        "cantante":"Gustavo Santaolalla, Paul Williams",
+        "duracion":"2:36"
+      },
+      {
+        "album":"Plan A",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ccccd9b321e9b4446ae22cc5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ccccd9b321e9b4446ae22cc5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Plan A",
+        "cantante":"Paulo Londra",
+        "duracion":"2:58"
+      },
+      {
+        "album":"plan",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02216f5a5804da873739ac68f9",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851216f5a5804da873739ac68f9",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"plan",
+        "cantante":"Alex Ponce",
+        "duracion":"3:29"
+      },
+      {
+        "album":"Cachos de mi alma",
+        "image":[
+          {
+            "url": "./images/CACHOSDEMIALMA.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "./images/CACHOSDEMIALMA.jpg",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Javier Morales",
+        "cancion":"Cachos de mi alma",
+        "cantante":"Soge Culebra",
+        "duracion":"3:31"
+      }
+    ],
+    "total": 16,
+    "uri": "spotify:playlist:7JvFWnKqAkXr9U74YbOp0T"
+  },
+  {
+    
+  }
+]
