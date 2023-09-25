@@ -499,7 +499,7 @@
               ],
               "autor":"Mariana Acero",
               "cancion":"Viernes 13",
-              "cantante":"SMarcos Menchaca",
+              "cantante":"Marcos Menchaca",
               "duracion":"3:01"
           },
           {
@@ -896,6 +896,620 @@
     "uri": "spotify:playlist:7JvFWnKqAkXr9U74YbOp0T"
   },
   {
-    
-  }
+    "collaborative": false,
+    "description": "",
+    "hora":"1 hr 45 min",
+    "images": [
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273045d0a38105fbe7bde43c490ab67616d0000b2732f76b797c382bedcafdf45e1ab67616d0000b273de09e02aa7febf30b7c02d82ab67616d0000b273f6b55ca93bd33211227b502b",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273045d0a38105fbe7bde43c490ab67616d0000b2732f76b797c382bedcafdf45e1ab67616d0000b273de09e02aa7febf30b7c02d82ab67616d0000b273f6b55ca93bd33211227b502b",
+        "width": 60
+      }
+    ],
+    "name": "My love in English",
+    "owner": {
+      "display_name": "Mariana Acero",
+      "id": "31gtuzql36eh7urkoyvnlcwkg3oa",
+      "uri": "spotify:user:31gtuzql36eh7urkoyvnlcwkg3oa"
+    },
+    "public": true,
+    "items": [
+      {
+        "album":"Midnight Memories (Deluxe)",
+        "image":[
+          {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022f76b797c382bedcafdf45e1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512f76b797c382bedcafdf45e1",
+              "width": 64
+            }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"You & I",
+        "cantante":"One Direction",
+        "duracion":"3:57"
+      },
+      {
+        "album":"A Rush of Blood to the Head",
+        "image":[
+          {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82",
+              "width": 64
+            }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"The Scientist",
+        "cantante":"Coldplay",
+        "duracion":"5:09"
+      },
+      {
+        "album":"Doo-Wops & Hooligans",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f6b55ca93bd33211227b502b",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Just the Way You Are",
+        "cantante":"Bruno Mars",
+        "duracion":"3:40"
+      },
+      {
+        "album":"Hopes and Fears (Deluxe Edition)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d1a0d9a7cf88083aac260c33",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d1a0d9a7cf88083aac260c33",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Somewhere Only We Know",
+        "cantante":"Keane",
+        "duracion":"3:57"
+      },
+      {
+        "album":"Overexposed Track By Track",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fc8633e22a7dba6aab817bff",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fc8633e22a7dba6aab817bff",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Payphone",
+        "cantante":"Maroon 5, Wiz Khalifa",
+        "duracion":"3:51"
+      },
+      {
+        "album":"Make You Mine",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020d0621554b1c6c9dbf3556be",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510d0621554b1c6c9dbf3556be",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Make You Mine",
+        "cantante":"PUBLIC",
+        "duracion":"3:52"
+      },
+      {
+        "album":"Don't Kill the Magic",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02604f8ac39f15d287e251f193",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851604f8ac39f15d287e251f193",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Rude",
+        "cantante":"MAGIC!",
+        "duracion":"3:44"
+      },
+      {
+        "album":"Midnight Memories (Deluxe)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022f76b797c382bedcafdf45e1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512f76b797c382bedcafdf45e1",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Midnight Memories",
+        "cantante":"One Direction",
+        "duracion":"2:56"
+      },
+      {
+        "album":"Made In The A.M. (Deluxe Edition)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02241e4fe75732c9c4b49b94c3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851241e4fe75732c9c4b49b94c3",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Perfect",
+        "cantante":"One Direction",
+        "duracion":"3:50"
+      },
+      {
+        "album":"After Hours",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Blinding Lights",
+        "cantante":"The Weeknd",
+        "duracion":"3:20"
+      },
+      {
+        "album":"The Papercut Chronicles II",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0218b8088fe0c3dbf78398b55a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485118b8088fe0c3dbf78398b55a",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Stereo Hearts (feat. Adam Levine)",
+        "cantante":"Gym Class Heroes, Adam Levine",
+        "duracion":"3:30"
+      },
+      {
+        "album":"Doo-Wops & Hooligans",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f60070dce96a2c1b70cf6ff0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f60070dce96a2c1b70cf6ff0",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Talking to the Moon",
+        "cantante":"Bruno Mars",
+        "duracion":"3:37"
+      },
+      {
+        "album":"TALKING IS HARD",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0243294cfa2688055c9d821bf3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485143294cfa2688055c9d821bf3",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Shut Up and Dance",
+        "cantante":"WALK THE MOON",
+        "duracion":"3:19"
+      },
+      {
+        "album":"Demi",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aadb13ae608f6af20528409b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aadb13ae608f6af20528409b",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Heart Attack",
+        "cantante":"Demi Lovato",
+        "duracion":"3:30"
+      },
+      {
+        "album":"Unorthodox Jukebox",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Locked out of Heaven",
+        "cantante":"Bruno Mars",
+        "duracion":"3:53"
+      },
+      {
+        "album":"Blue Hawaii",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f96cefb0197694ad440c3314",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f96cefb0197694ad440c3314",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Can't Help Falling in Love",
+        "cantante":"Elvis Presley",
+        "duracion":"3:02"
+      },
+      {
+        "album":"Unorthodox Jukebox",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Treasure",
+        "cantante":"Bruno Mars",
+        "duracion":"2:58"
+      },
+      {
+        "album":"Parachutes",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d92b2ad5af9fbc8637425f0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d92b2ad5af9fbc8637425f0",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Yellow",
+        "cantante":"Coldplay",
+        "duracion":"4:26"
+      },
+      {
+        "album":"Until I Found You",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028792c3e96f8ab97a767c5d0c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518792c3e96f8ab97a767c5d0c",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Until I Found You",
+        "cantante":"Stephen Sanchez",
+        "duracion":"2:57"
+      },
+      {
+        "album":"we fell in love in october / forget her",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb13fbc012815ea6e834e842",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851eb13fbc012815ea6e834e842",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"we fell in love in october",
+        "cantante":"girl in red",
+        "duracion":"3:04"
+      },
+      {
+        "album":"Speak Now (Deluxe Package)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e1bc852a04501952c765d5cd",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e1bc852a04501952c765d5cd",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Enchanted",
+        "cantante":"Taylor Swift",
+        "duracion":"5:52"
+      },
+      {
+        "album":"Speak Now (Taylor's Version)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510b04da4f224b51ff86e0a481",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Mine (Taylor's Version)",
+        "cantante":"Taylor Swift",
+        "duracion":"3:51"
+      },
+      {
+        "album":"Meet The Vamps",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029f89b8390933e9ccb3673c89",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519f89b8390933e9ccb3673c89",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Somebody To You",
+        "cantante":"The Vamps",
+        "duracion":"3:05"
+      },
+      {
+        "album":"The Greatest Showman: Reimagined (Deluxe)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4e9d12d9ccdd7e48d2a0329",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c4e9d12d9ccdd7e48d2a0329",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Rewrite The Stars",
+        "cantante":"James Arthur",
+        "duracion":"3:38"
+      },
+      {
+        "album":"FOUR (Deluxe)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d304ba2d71de306812eebaf4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d304ba2d71de306812eebaf4",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Night Changes",
+        "cantante":"One Direction",
+        "duracion":"3:46"
+      },
+      {
+        "album":"Doo-Wops & Hooligans",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f60070dce96a2c1b70cf6ff0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f60070dce96a2c1b70cf6ff0",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Marry You",
+        "cantante":"Bruno Mars",
+        "duracion":"3:50"
+      },
+      {
+        "album":"Lover",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Lover",
+        "cantante":"Taylor Swift",
+        "duracion":"3:41"
+      },
+      {
+        "album":"My Universe",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f60a9b7e2abafc38da31f575",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f60a9b7e2abafc38da31f575",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"My Universe",
+        "cantante":"Coldplay, BTS",
+        "duracion":"3:48"
+      },
+      {
+        "album":"Parachutes",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d92b2ad5af9fbc8637425f0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d92b2ad5af9fbc8637425f0",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Sparks",
+        "cantante":"Coldplay",
+        "duracion":"3:47"
+      },
+      {
+        "album":"x (Deluxe Edition)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0213b3e37318a0c247b550bccd",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485113b3e37318a0c247b550bccd",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Thinking out Loud",
+        "cantante":"Ed Sheeran",
+        "duracion":"4:41"
+      },
+      {
+        "album":"plan",
+        "image":[
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02216f5a5804da873739ac68f9",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851216f5a5804da873739ac68f9",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"plan",
+        "cantante":"Alex Ponce",
+        "duracion":"3:29"
+      }
+    ],
+  "total": 31,
+  "uri": "spotify:playlist:4NclP7YbwXFAFcseFLjcnG"
+}
 ]
