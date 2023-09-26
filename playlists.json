@@ -1490,26 +1490,302 @@
         "duracion":"4:41"
       },
       {
-        "album":"plan",
+        "album":"Born To Die - The Paradise Edition",
         "image":[
           {
-            "url": "https://i.scdn.co/image/ab67616d00001e02216f5a5804da873739ac68f9",
             "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebc8cfac8b586bc475b04918",
             "width": 300
           },
           {
-            "url": "https://i.scdn.co/image/ab67616d00004851216f5a5804da873739ac68f9",
             "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ebc8cfac8b586bc475b04918",
             "width": 64
           }
         ],
         "autor":"Mariana Acero",
-        "cancion":"plan",
-        "cantante":"Alex Ponce",
-        "duracion":"3:29"
+        "cancion":"Video Games",
+        "cantante":"Lana Del Rey",
+        "duracion":"4:41"
       }
     ],
-  "total": 31,
-  "uri": "spotify:playlist:4NclP7YbwXFAFcseFLjcnG"
-}
+    "total": 31,
+    "uri": "spotify:playlist:4NclP7YbwXFAFcseFLjcnG"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "followers": {
+      "total": 0
+    },
+    "images": [
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273312bd86cc2db22fde885ee73ab67616d0000b27349d694203245f241a1bcaa72ab67616d0000b273509c45194c1ef6c1cb509e5dab67616d0000b273e75742385df2e0a026001e0d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273312bd86cc2db22fde885ee73ab67616d0000b27349d694203245f241a1bcaa72ab67616d0000b273509c45194c1ef6c1cb509e5dab67616d0000b273e75742385df2e0a026001e0d",
+        "width": 60
+      }
+    ],
+    "name": "Mi amor en reggaeton",
+    "owner": {
+      "display_name": "Mariana Acero",
+      "id": "31gtuzql36eh7urkoyvnlcwkg3oa",
+      "uri": "spotify:user:31gtuzql36eh7urkoyvnlcwkg3oa"
+    },
+    "public": true,
+    "items": [
+      {
+        "album":"Un Verano Sin Ti",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Ojitos Lindos",
+        "cantante":"Bad Bunny, Bomba Estéreo",
+        "duracion":"4:18"
+      },
+      {
+        "album":"Born To Die - The Paradise Edition",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebc8cfac8b586bc475b04918",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ebc8cfac8b586bc475b04918",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Video Games",
+        "cantante":"Lana Del Rey",
+        "duracion":"4:41"
+      },
+      {
+        "album":"A Mí",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e75742385df2e0a026001e0d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e75742385df2e0a026001e0d",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"A Mí",
+        "cantante":"Rels B",
+        "duracion":"3:29"
+      },
+      {
+        "album":"UN DIA (ONE DAY) (Feat. Tainy)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02312bd86cc2db22fde885ee73",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851312bd86cc2db22fde885ee73",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"UN DIA (ONE DAY) (Feat. Tainy)",
+        "cantante":"J Balvin, Dua Lipa, Bad Bunny, Tainy",
+        "duracion":"3:52"
+      },
+      {
+        "album":"Platonicos",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02509c45194c1ef6c1cb509e5d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851509c45194c1ef6c1cb509e5d",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"La Curiosidad",
+        "cantante":"Jay Wheeler, DJ Nelson, Myke Towers",
+        "duracion":"3:39"
+      },
+      {
+        "album":"Un Verano Sin Ti",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Un Verano Sin Ti",
+        "cantante":"Bad Bunny",
+        "duracion":"2:28"
+      },
+      {
+        "album":"Plan A",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ccccd9b321e9b4446ae22cc5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ccccd9b321e9b4446ae22cc5",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Plan A",
+        "cantante":"Paulo Londra",
+        "duracion":"2:58"
+      },
+      {
+        "album":"RR",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024d6cf0d0d5e32ca4fa3a59e1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514d6cf0d0d5e32ca4fa3a59e1",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"BESO",
+        "cantante":"ROSALÍA, Rauw Alejandro",
+        "duracion":"3:14"
+      },
+      {
+        "album":"Yo x Ti, Tu x Mi",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02694844fd046ab81e5dc9a4cf",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851694844fd046ab81e5dc9a4cf",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Yo x Ti, Tu x Mi",
+        "cantante":"ROSALÍA, Ozuna",
+        "duracion":"3:21"
+      },
+      {
+        "album":"Quevedo: Bzrp Music Sessions, Vol. 52",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021630dd349221a35ce03a0ccf",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511630dd349221a35ce03a0ccf",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Quevedo: Bzrp Music Sessions, Vol. 52",
+        "cantante":"Bizarrap, Quevedo",
+        "duracion":"3:18"
+      },
+      {
+        "album":"Nota de Amor (feat. Daddy Yankee)",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bc73772c70ee3b4d9fae1ac1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bc73772c70ee3b4d9fae1ac1",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Nota de Amor (feat. Daddy Yankee)",
+        "cantante":"Wisin, Carlos Vives, Daddy Yankee",
+        "duracion":"3:52"
+      },
+      {
+        "album":"Talento de Barrio",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02522f64d160907ff8a7b61bc7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851522f64d160907ff8a7b61bc7",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Llamado de Emergencia",
+        "cantante":"Daddy Yankee",
+        "duracion":"3:59"
+      },
+      {
+        "album":"Líderes",
+        "image":[
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026be6ef1173c9a2bb6705981c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516be6ef1173c9a2bb6705981c",
+            "width": 64
+          }
+        ],
+        "autor":"Mariana Acero",
+        "cancion":"Algo Me Gusta De Ti",
+        "cantante":"Wisin & Yandel",
+        "duracion":"4:35"
+      }
+    ],
+    "total": 13
+  }
 ]

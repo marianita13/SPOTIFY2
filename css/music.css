@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "GothamMedium_1";
+    src: url(../Fonts/GothamMedium_1.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: "GothamMedium_1";
+    color: white !important;
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+}
+
+.hola{
+   justify-content: center;
+}
+
+p {
+    margin: 0;
+    padding-top: 2px;
+    font-size: 16px;
+}
+
+
+.grid-box {
+    display: grid;
+    grid-template-columns: 4% 96%;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    gap: 10px;
+    padding: 10px;
+}
+
+/*Menu de la izquierda*/
+.menu {
+    grid-column: 1/2;
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/*Menu*/
+.home {
+    background-color: rgb(24, 24, 22);
+    height: 10%;
+    border-radius: 15px;
+    padding: 15px;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+}
+
+.home div {
+    width: 100%;
+    gap: 17px;
+    padding-left: 2px;
+    padding-top: 2px;
+}
+
+
+.library {
+    background-color: rgb(24, 24, 22);
+    height: 90%;
+    border-radius: 15px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+}
+
+.library>div {
+    width: 100%;
+    padding-top: 2px;
+    gap: 9px;
+}
+
+.playlist-face {
+    gap: 20px !important;
+    cursor: pointer;
+}
+
