@@ -35,11 +35,11 @@ p {
 
 .grid-box {
     display: grid;
-    grid-template-columns: 5.5% 94.5%;
+    grid-template-columns: 4.5% 95.5%;
     height: 100%;
     width: 100%;
     background-color: black;
-    gap: 10px;
+    gap: 15px;
     padding: 10px;
 }
 
@@ -95,3 +95,46 @@ p {
     cursor: pointer;
 }
 
+
+/*PRINCIPAL*/
+.principal{
+    grid-column: 2/3;
+    display: grid;
+    grid-template-columns: 70% 30%;
+    column-gap: 15px;
+}
+.canciones{
+    grid-column: 1/2;
+    background-color: rgb(24, 24, 22);
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+.cancion{
+    grid-column: 2/3;
+    background-color: rgb(24, 24, 22);
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+.navbar{
+    width: 100%;
+    height: 6%;
+    padding: 0px 16px 0px 16px;
+    justify-content: space-between;
+}
+.navbar div{
+    gap: 25px;
+}
+.inicio{
+    width: 40%;
+    height: 100%;
+    justify-content: end;
+}
+#Perfil{
+    background-image: url(../images/WhatsApp\ Image\ 2023-09-17\ at\ 12.26.48\ AM.jpeg);
+    background-size: contain;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
