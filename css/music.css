@@ -122,6 +122,9 @@ p {
     height: 6%;
     padding: 0px 16px 0px 16px;
     justify-content: space-between;
+    background-color: rgb(1, 5, 15);
+    /* background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(8, 34, 95) 100%);  */
 }
 .navbar div{
     gap: 25px;
@@ -137,4 +140,30 @@ p {
     height: 35px;
     width: 35px;
     border-radius: 50%;
+}
+
+/*TITULO PLAYLIST*/
+.titulo{
+    gap: 20px;
+    padding: 25px;
+    height: 30%;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(36,68,144,1) 50%, rgba(0,212,255,1) 100%); 
+}
+.infoPlaylist{
+    flex-direction: column;
+    gap: 18px;
+    align-items: flex-start !important;
+    height: 100%;
+    justify-content: center;
+}
+#Perfil2{
+    background-image: url(../images/perfilMariana.jpg);
+    background-size: contain;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.tiempoSongs{
+    gap: 10px;
 }
